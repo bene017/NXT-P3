@@ -6,6 +6,7 @@
 ```
 chmod +x build_env.sh
 ./build_env.sh
+. ./venv3/bin/activate
 ```
 
 
